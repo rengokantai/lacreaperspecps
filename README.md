@@ -18,3 +18,18 @@ ctrl enter ->select all paths
 ###2 Selecting the door
 ####00:30
 lasso tool->click , alt->select straight line
+
+
+
+
+
+
+
+
+
+
+
+##4. The Vanishing Point Filter
+###1 Creating the first perspective plane
+Filter->vanishing point (alt cmd v)  
+x->zoom in
